@@ -1,5 +1,5 @@
 # YouTube Declutter
-Removes some buttons under a video.\
+Removes the 'Join', 'Donate', 'Thank' & 'Clip' buttons below the video player. \
 Language support:
 - English
 - Dutch
@@ -23,4 +23,4 @@ On:\
 
 # Installation
 To run this script, you need [TamperMonkey](https://www.tampermonkey.net/) or an alternative.\
-Install my script [here](https://greasyfork.org/en/scripts/445165-youtube-declutter).
+Install my script [here](https://greasyfork.org/en/scripts/458983-youtube-declutter-revamped).
